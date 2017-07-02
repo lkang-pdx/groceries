@@ -33,3 +33,9 @@ exports.register = function() {
     var topmost = frameModule.topmost();
     topmost.navigate("views/register/register");
 };
+
+exports.delete = function(args) {
+    var item = args.view.bindingContext;
+    var index = groceryList.indexOf(item);
+    groceryList.delete(index);
+};
