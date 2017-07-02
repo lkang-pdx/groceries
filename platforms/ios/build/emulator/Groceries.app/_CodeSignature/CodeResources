@@ -82,7 +82,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		+qcdL4Iqd1uD3IKxFuAfdBARpHM=
+		XMbPbDDWahYFMS4HZnz20An3jfI=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -178,7 +178,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		55E2yS65yiNzkPv+kHbMzJQGELk=
+		gMRVI60PqjkV4vFJDCsEItHPwqs=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -186,7 +186,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		a07kXOPVTPhu5xm4+7fzt0vWgS4=
+		cCeMPeJ4I2Sqj2thRsgbWndK5/k=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -1690,11 +1690,11 @@
 		</data>
 		<key>app/views/list/list.js</key>
 		<data>
-		SPlv74zwZp9ptf43jMn1bxrQzDQ=
+		fqoOb6vvpNRaSAmQD2/pzHSPejE=
 		</data>
 		<key>app/views/list/list.xml</key>
 		<data>
-		q7pILMlt4FV6dXSN8lQz+zeOUeI=
+		XSUutQUZh90iMxEXNrG360rpAFQ=
 		</data>
 		<key>app/views/login/login.css</key>
 		<data>
@@ -1957,11 +1957,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+qcdL4Iqd1uD3IKxFuAfdBARpHM=
+			XMbPbDDWahYFMS4HZnz20An3jfI=
 			</data>
 			<key>hash2</key>
 			<data>
-			ScLAZqGhQ8sXQrVCpJ9xTCZnQrgCFC+rZMtDiIMLCKE=
+			DrskIoeBTtJfTRIc6QfsXShvzyAj/TbDTE9ZDqpDzhQ=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -2210,11 +2210,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			55E2yS65yiNzkPv+kHbMzJQGELk=
+			gMRVI60PqjkV4vFJDCsEItHPwqs=
 			</data>
 			<key>hash2</key>
 			<data>
-			kaiK1faUm3wizuXcEcnsCrB28lg/OQl9oLgDGEZgaDk=
+			95ShSKvDHTz38EAVb2q/AqQBEcv6YWpoL35rNEzu5UE=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -2232,11 +2232,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			a07kXOPVTPhu5xm4+7fzt0vWgS4=
+			cCeMPeJ4I2Sqj2thRsgbWndK5/k=
 			</data>
 			<key>hash2</key>
 			<data>
-			fjL3o+/ynbl/ej9EG2nm7Hy1Ok7fT6sx5E87j7aCQuQ=
+			QWFDRpfCIPdDWGMiRUpKSJGuoz7W1wWlZUbhOq1mRII=
 			</data>
 		</dict>
 		<key>app/README.md</key>
@@ -6357,22 +6357,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SPlv74zwZp9ptf43jMn1bxrQzDQ=
+			fqoOb6vvpNRaSAmQD2/pzHSPejE=
 			</data>
 			<key>hash2</key>
 			<data>
-			GBKRTfbs9njJdvSMaUxymdSLSwVI3i+p6mgO/tRZoao=
+			jLEYWNRk1u2wWwrR/x5/gnhJpoMpeLUYSM+eGsq2P1k=
 			</data>
 		</dict>
 		<key>app/views/list/list.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q7pILMlt4FV6dXSN8lQz+zeOUeI=
+			XSUutQUZh90iMxEXNrG360rpAFQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			n97Ji9ohOSIPGGYIim4mHUpLhO4d67AtgVywKay8tos=
+			k8ajnzIDx/Hw7uF2BF1QVQvo5+fc+P0D2tCpgAfiqnE=
 			</data>
 		</dict>
 		<key>app/views/login/login.css</key>
