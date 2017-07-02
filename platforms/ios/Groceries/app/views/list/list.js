@@ -3,6 +3,7 @@ var observableModule = require("data/observable")
 var ObservableArray = require("data/observable-array").ObservableArray;
 var page;
 var GroceryListViewModel = require("../../shared/view-models/grocery-list-view-model");
+var socialShare = require("nativescript-social-share");
 
 var groceryList = new GroceryListViewModel([]);
 var pageData = new observableModule.fromObject({
@@ -48,4 +49,13 @@ exports.add = function() {
 
     // Empty the input field
     pageData.set("grocery", "");
+};
+
+exports.share = function() {
+    var list = [];
+    for (var i = 0, size = groceryList.length; i < size ; i++) {
+        list.push(groceryList.getItem(i).name);
+    }
+    var listString = list.join(", ").trim();
+    socialShare.shareText(listString);
 };
